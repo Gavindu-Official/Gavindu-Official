@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/JeOaL3l.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gavindu-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Gavindu-Official" /> </p>
- [![​GitHub followers​](https://img.shields.io/github/followers/Gavindu-Official.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Gavindu-Official?tab=followers) 
 
 - 🔭 I’m currently working on **Whatsapp Bots**
 
